@@ -1,0 +1,16 @@
+# Obsidian workspace settings (local only)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# System files
+.DS_Store
+.trash/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets (if you add any .env files later)
+.env
+*.key
+*_secret.md
