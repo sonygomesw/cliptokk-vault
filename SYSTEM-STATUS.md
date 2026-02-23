@@ -1,6 +1,17 @@
 # 🔧 System Status - Quick View
 
-**Updated:** 2026-02-14 04:30
+**Updated:** 2026-02-23
+
+---
+
+## 📱 Phone Farm Infrastructure
+
+```
+Box Samsung S20:  10 tél × 5 comptes = 50 comptes  → 250 posts/jour
+Box Samsung S8:   20 tél × 3 comptes = 60 comptes  → 300 posts/jour
+─────────────────────────────────────────────────────────────────
+TOTAL:            30 tél              110 comptes  → 550 posts/jour
+```
 
 ---
 

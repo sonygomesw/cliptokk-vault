@@ -11,9 +11,14 @@
 
 ## Content Production
 - Posts Today: 0
-- Posts Today Goal: 650
+- Posts Today Goal: 550
 - Posts This Week: 0
-- Posts Week Goal: 4550
+- Posts Week Goal: 3850
+
+## Phone Farm
+- Total Phones: 30 (10x S20 + 20x S8)
+- Total Accounts: 110
+- Daily Capacity: 550 posts
 
 ---
 Last updated: 2026-02-15
